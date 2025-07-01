@@ -1,4 +1,4 @@
-# Spanish-Language Machine Learning Notebooks (Python)
+# Machine Learning Concepts with Python Notebooks
 
 ## Introduction
 
