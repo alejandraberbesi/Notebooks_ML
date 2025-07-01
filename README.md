@@ -40,6 +40,6 @@ Cada cuaderno ofrece una exploración enfocada en dominios esenciales del ML:
 
 * Patrones No Supervisados: Descubre patrones ocultos con PCA, K-Means, Clustering Jerárquico Aglomerativo y DBSCAN.
 
-## ▶️ ¡Sumérgete!
+▶️ ¡Sumérgete!
 
 Simplemente abre estos cuadernos en tu entorno Jupyter para comenzar tu fascinante exploración del Machine Learning.
